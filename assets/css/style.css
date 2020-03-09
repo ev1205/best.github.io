@@ -1146,7 +1146,11 @@ hr {
     .services__icon {
         left: 0;
     }
-
+services {
+    width: 100%;
+    display: block;
+}  
+    .card__img img {width:100%}
 
     /* Wedo */
     .wedo__img {
