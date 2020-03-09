@@ -355,7 +355,10 @@ hr {
 
     transition: transform .2s linear;
 }
-
+.services {
+    width: 100%;
+    display: block;
+}   .card__img img {width:100%} 
 .card__img img {
         display: block;
     transition: opacity .1s linear;
